@@ -1,0 +1,14 @@
+.Header {
+  width: 100%;
+  background-color: #454545;
+  padding: 1em 1.5em;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+.Header span {
+  color: #fff;
+  font-size: 1.5em;
+  font-weight: 500;
+}
